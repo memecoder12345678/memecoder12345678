@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memecoder12345678&label=Profile%20views&color=0e75b6&style=flat" alt="memecoder12345678" /> </p>
 
-- 🔭 I’m currently working on [KY8](https://github.com/memecoder12345678/KY8-Project)
-
 - 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **memecoder17@gmail.com**
