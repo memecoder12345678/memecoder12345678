@@ -8,6 +8,3 @@
 - 📫 How to reach me **memecoder17@gmail.com**
 
 - 💻 I’m interested in **cybersecurity** 🚫🔒
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memecoder12345678&" alt="memecoder12345678" /></p>
-
